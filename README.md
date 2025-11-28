@@ -23,7 +23,7 @@
 `Python` · `C` · `C++` · `Java` :contentReference[oaicite:2]{index=2}  
 
 **Frameworks & Tools:**  
-`FastAPI` · `scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` :contentReference[oaicite:3]{index=3}  
+`FastAPI` · `scikit-learn` :contentReference[oaicite:3]{index=3}  
 
 **Other:**  
 `Git` · `GitHub`
