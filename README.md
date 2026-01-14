@@ -63,7 +63,7 @@
 
 📧 **adarsh.pallavali@gmail.com**  
 🔗 **Portfolio (coming soon?)**  
-💼 **LinkedIn:** *Add your link here*
+💼 **LinkedIn
 
 ---
 
