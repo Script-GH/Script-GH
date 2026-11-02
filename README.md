@@ -12,7 +12,7 @@
 
 ## About
 
-CS undergrad at **Dayananda Sagar College of Engineering** (B.E. Computer Science, 2024–2028), currently a **Junior Developer Intern at Xtrail** working on computer vision pipelines and small language model fine-tuning.
+CS undergrad at **Dayananda Sagar College of Engineering** (B.E. Computer Science, 2024–2028), currently an **AIML Intern at Patil I Labs** working on image processing and software engineering.
 
 - Building vision systems, transformer models, and agentic AI workflows end to end
 - Interested in the full stack of ML engineering: architecture, training efficiency, deployment
@@ -49,8 +49,13 @@ CS undergrad at **Dayananda Sagar College of Engineering** (B.E. Computer Scienc
 
 ## Experience
 
+### AIML Intern — Patil I Labs
+`2026 – Present`
+
+- Image processing and software engineering
+
 ### Junior Developer Intern — Xtrail
-`Nov 2025 – Apr 2026` · Bangalore, India
+`Nov 2025 – Apr 2026` · Past · Bangalore, India
 
 - Developed and optimized computer vision workflows for real-world use cases, covering model training and evaluation
 - Fine-tuned small language models with LoRA and QLoRA, improving performance while cutting training compute
@@ -78,7 +83,7 @@ A GPT-style transformer implemented in PyTorch with no high-level model librarie
 
 `PyTorch` `tiktoken` `NumPy`
 
-### PlantCare AI — Plant Diagnosis & Marketplace
+### PlantCare AI — Plant Diagnosis & Marketplace <!-- TODO: add repo link or remove -->
 Image-based plant disease detection with personalized 7-day care plans and a farmer marketplace.
 
 - Disease classification from uploaded images, plant health tracking, and produce listings
@@ -86,10 +91,20 @@ Image-based plant disease detection with personalized 7-day care plans and a far
 
 `Next.js` `TypeScript` `Tailwind` `FastAPI` `MongoDB`
 
-### AceAI — Predictive Analytics for Learning Personalization
+### AceAI — Predictive Analytics for Learning Personalization <!-- TODO: add repo link or remove -->
 ML system that identifies at-risk students and recommends personalized learning plans.
 
 `Python` `scikit-learn` `Pandas`
+
+---
+
+## Featured work
+
+- [ScriptLLM](https://github.com/Script-GH/ScriptLLM) — MiniGPT, a small GPT trained from scratch.
+- [TRACEv2](https://github.com/Script-GH/TRACEv2) — Go multi-agent orchestrator with a MoE-style gate.
+- [DevMatrix](https://github.com/Script-GH/DevMatrix) — Developer environment diagnostics: CLI, VS Code extension, and a Next.js dashboard.
+- [cypher](https://github.com/shivansh-source/cypher) — Merged contributions to the SIH 2026 project ([#7](https://github.com/shivansh-source/cypher/pull/7), [#8](https://github.com/shivansh-source/cypher/pull/8), [#11](https://github.com/shivansh-source/cypher/pull/11), [#19](https://github.com/shivansh-source/cypher/pull/19), [#27](https://github.com/shivansh-source/cypher/pull/27)).
+- [DroneAcharaya](https://github.com/parinaB/DroneAcharaya) — UAV engine digital twin; built the autoencoder ([#15](https://github.com/parinaB/DroneAcharaya/pull/15), [#25](https://github.com/parinaB/DroneAcharaya/pull/25)).
 
 ---
 
@@ -97,7 +112,7 @@ ML system that identifies at-risk students and recommends personalized learning 
 
 | Award | Detail | Year |
 | --- | --- | --- |
-| RNSIT 24-Hour Hackathon — 1st Place | Ranked 1st of 240 teams with DevMatrix | 2025 |
+| RNSIT 24-Hour Hackathon — 1st Place | Ranked 1st of 240 teams with DevMatrix | 2025 <!-- TODO: verify year --> |
 
 ---
 
